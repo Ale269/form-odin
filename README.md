@@ -35,7 +35,7 @@ I have studied mainly from these sources.
 
 - Start2Impact - [link to the website](https://www.start2impact.it/?utm_source=google&utm_medium=cpc&utm_campaign=Search_Brand&gclid=Cj0KCQiAieWOBhCYARIsANcOw0w5QK43cTLhwCWpsKfugzdnDB3c2GLK78gn2BA0thbsMWDFx5T7NRwaAp8XEALw_wcB)
 - The Odin Project - [link to the website](https://www.theodinproject.com/)
-- 
+
 [Back To The Top](#Grid-layout-form)
 
 ---
